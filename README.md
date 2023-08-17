@@ -1,5 +1,13 @@
 # Credit_risk_resampling
 
+# Table of Contents
+* [Introduction](#Introduction)
+* [Objective](#Objective)
+* [Project Overview](#ProjectOverview)
+* [Conclusion](#Conclusion)
+* [Getting Started](#GettingStarted)
+* [Dependencies](#Dependencies)
+
  ## Introduction
 Welcome to the Credit Risk Analysis Repository! This platform serves as a crucial tool for financial institutions, particularly banks, engaged in lending activities. Here, we present a machine learning-based solution that effectively predicts credit risk, harnessing historical lending data from a peer-to-peer lending services provider.
 
@@ -30,5 +38,3 @@ Pandas
 NumPy
 Scikit-learn
 Imbalanced-learn
-
-We invite you to explore the world of credit risk analysis and make informed lending decisions with confidence.
